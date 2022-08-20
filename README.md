@@ -1,6 +1,6 @@
 # Golden Sixpacks
 
-Golden Sixpacks are yearly awards that Datascope is experimenting with
+Golden Sixpacks are yearly awards designed
 as a mechanism to recognize each others' accomplishments.
 
 ### Main guidelines
@@ -66,7 +66,6 @@ check the admin interface to keep track of the situation as they vote.
 
 * Once everybody votes, share the results with everyone.
 
-Currently, this app is online at [http://golden-sixpacks.datasco.pe](http://golden-sixpacks.datasco.pe)
 
 
 
